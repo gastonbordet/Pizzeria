@@ -1,0 +1,5 @@
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\ENTIDAD\bin\Release\ENTIDAD.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\ENTIDAD\bin\Release\ENTIDAD.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\ENTIDAD\obj\Release\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\ENTIDAD\obj\Release\ENTIDAD.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\ENTIDAD\obj\Release\ENTIDAD.pdb

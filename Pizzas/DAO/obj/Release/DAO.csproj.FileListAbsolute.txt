@@ -1,0 +1,9 @@
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Release\DAO.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Release\DAO.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Release\ENTIDAD.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Release\ENTIDAD.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Release\DAO.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Release\DAO.pdb

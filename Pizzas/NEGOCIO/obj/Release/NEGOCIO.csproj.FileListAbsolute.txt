@@ -1,0 +1,11 @@
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\bin\Release\NEGOCIO.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\bin\Release\NEGOCIO.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\bin\Release\DAO.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\bin\Release\ENTIDAD.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\bin\Release\DAO.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\bin\Release\ENTIDAD.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\obj\Release\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\obj\Release\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\obj\Release\NEGOCIO.csproj.CopyComplete
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\obj\Release\NEGOCIO.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\NEGOCIO\obj\Release\NEGOCIO.pdb
