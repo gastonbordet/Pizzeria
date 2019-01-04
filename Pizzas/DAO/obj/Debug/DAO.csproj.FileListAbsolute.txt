@@ -1,0 +1,9 @@
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Debug\DAO.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Debug\DAO.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Debug\ENTIDAD.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\bin\Debug\ENTIDAD.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Debug\DAO.dll
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\DAO\obj\Debug\DAO.pdb

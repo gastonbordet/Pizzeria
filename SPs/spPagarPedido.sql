@@ -1,0 +1,10 @@
+CREATE PROCEDURE spPagarPedido
+(
+@IDPEDIDOLOCAL char(6)
+)
+AS
+UPDATE Pedidos_Local
+SET
+Facturado = 1
+WHERE IdPedidoLocal = @IDPEDIDOLOCAL
+RETURN

@@ -1,0 +1,11 @@
+CREATE PROCEDURE spActualizarStock 
+(
+@NOMBRE char(25),
+@CANTIDAD int
+)
+AS
+UPDATE Stock
+SET
+Cantidad = @CANTIDAD
+WHERE Nombre = @NOMBRE
+RETURN

@@ -1,0 +1,16 @@
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\bin\Debug\Pizzas.exe.config
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\bin\Debug\Pizzas.exe
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\bin\Debug\Pizzas.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.csprojAssemblyReference.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Form1.resources
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Properties.Resources.resources
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.csproj.GenerateResource.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.exe
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.pdb
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Form2.resources
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Form3.resources
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Form4.resources
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Form5.resources
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Form6.resources
+C:\Users\Gaston\Documents\UTN\Programacion III\TP Integrador\Pizzas\Pizzas\obj\Debug\Pizzas.Form7.resources

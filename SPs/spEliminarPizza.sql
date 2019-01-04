@@ -1,0 +1,8 @@
+CREATE PROCEDURE spEliminarPizza
+(
+@IDPIZZA char(6)
+)
+AS
+DELETE FROM Pizzas
+WHERE IdPizza = @IDPIZZA
+RETURN
