@@ -1,4 +1,4 @@
-Este proyecto consiste en un sistema para controlar altas y bajas de productos, disponibilidad de empleados, gestión de pedidos y gestión financiera de un negocio. Fue desarrollado para aprender las bases de OOP con el lenguaje C# y su framework .NET en el entorno de Windows Forms y las sentencias básicas de en SQL Server.
+Este proyecto consiste en un sistema para controlar altas y bajas de productos, disponibilidad de empleados, gestión de pedidos y gestión financiera de un negocio. Fue desarrollado para aprender las bases de OOP con el lenguaje C# y su framework .NET en el entorno de Windows Forms y las sentencias básicas de SQL Server.
 
 ---- IMPORTANTE ----
 Todos los datos se extraen y guardan en una base de datos, por lo que es necesario contar con Microsoft SQL Server 2005.
